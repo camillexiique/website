@@ -1,0 +1,35 @@
+.listeDesCatégories{
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    /*background-color: aquamarine;*/
+
+}
+
+.ListCatégories{
+
+    text-transform: uppercase;
+
+}
+
+.TheCatégories{
+
+    border: 2px solid rgb(208, 112, 211);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+
+}
+
+
+.items{
+
+    width: 230px;
+    height: auto;
+    border: 2px solid rgb(157, 211, 112);
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 1rem; 
+    box-shadow: 1px 2px 3px rgb(79, 146, 163);
+}

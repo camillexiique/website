@@ -1,0 +1,56 @@
+.newCategories{
+    width: 300px;
+    min-height: 200px;
+    margin: 3rem auto;
+    border : 1px solid rgb(212, 110, 170);
+    border-radius: 5px;
+    padding: 1rem;
+    box-shadow: 2px 2px 2px rgb(17, 5, 12);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.title{
+
+    margin: 0;
+    text-transform: capitalize;
+
+}
+
+.newCategorie_contair{
+
+    width: 100%;
+    display: flex;
+
+}
+
+.newCategories_input{
+
+    width: 100%;
+    padding: auto;
+    border: 1px dashed rgb(53, 3, 39);
+}
+
+.newCategorie_descriptoin{
+
+    width: 200px;
+    height: 40px;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    border: 1px dashed rgb(218, 157, 202);
+    border-radius:1px ;
+
+}
+
+.newCategorie_button{
+
+    width: 100px;
+    height: 50px;
+    border: 1px solid   rgb(53, 3, 39);
+    background-color: rgb(141, 247, 102);
+    border-radius: 5px;
+
+}
